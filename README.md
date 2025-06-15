@@ -81,7 +81,7 @@ While not statistically significant in pooled analysis, substantial heterogeneit
 ├── sleep_data.csv                # Cleaned dataset (43 observations)
 ├── README.md                     # Study documentation
 ├── preanalysis_plan.pdf          # Original study protocol with power analysis
-├── report.pdf              # Complete results and methodology
+├── report.pdf                    # Complete results and methodology
 └── outputs/
     ├── plots/                    # Data visualizations
     ├── tables/                   # Regression results (CSV + HTML)
