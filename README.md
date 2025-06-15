@@ -20,7 +20,7 @@ A complete self-directed randomized controlled trial investigating how different
 **Randomization**: Complete random assignment, blocked by participant using R's `sample()` function \
 **Treatment Conditions**:
 
-- **Control**: Using phone for 20 minutes before bed \
+- **Control**: Using phone for 20 minutes before bed 
 - **Treatment**: Reading physical book for 20 minutes before bed
 
 **Primary Outcomes**:
