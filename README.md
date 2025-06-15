@@ -78,10 +78,10 @@ While not statistically significant in pooled analysis, substantial heterogeneit
 
 ```
 ├── analysis_script.R             # Complete R analysis pipeline
-├── sleep_data_clean.csv          # Cleaned dataset (43 observations)
+├── sleep_data.csv                # Cleaned dataset (43 observations)
 ├── README.md                     # Study documentation
 ├── preanalysis_plan.pdf          # Original study protocol with power analysis
-├── final_report.pdf              # Complete results and methodology
+├── report.pdf              # Complete results and methodology
 └── outputs/
     ├── plots/                    # Data visualizations
     ├── tables/                   # Regression results (CSV + HTML)
