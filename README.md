@@ -13,14 +13,14 @@ A complete self-directed randomized controlled trial investigating how different
 
 ## Experimental Design 
 
-**Study Type**: Randomized Controlled Trial
-**Duration**: April 2025 (one month)
-**Participants**: 2 college students (21 years old)
-**Sample Size**: 43 nights of data
-**Randomization**: Complete random assignment, blocked by participant using R's `sample()` function
+**Study Type**: Randomized Controlled Trial \
+**Duration**: April 2025 (one month) \
+**Participants**: 2 college students (21 years old) \
+**Sample Size**: 43 nights of data \
+**Randomization**: Complete random assignment, blocked by participant using R's `sample()` function \
 **Treatment Conditions**:
 
-- **Control**: Using phone for 20 minutes before bed
+- **Control**: Using phone for 20 minutes before bed \
 - **Treatment**: Reading physical book for 20 minutes before bed
 
 **Primary Outcomes**:
